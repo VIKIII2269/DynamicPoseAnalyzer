@@ -1,6 +1,4 @@
-Certainly! Here's a basic template for a GitHub README for your pose estimation web application:
 
----
 
 # DynamicPoseAnalyzer
 
