@@ -42,9 +42,7 @@ To run PoseVision locally, follow these steps:
 - Allow access to your webcam to capture live pose estimations.
 - View live pose comparisons with the reference image, including similarity indices.
 
-Certainly! Here's an "Applications" section for the GitHub README:
 
----
 
 ## Applications
 
