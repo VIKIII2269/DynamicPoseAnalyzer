@@ -1,7 +1,10 @@
-from flask import Flask, render_template, Response, jsonify ,request
+from flask import Flask, render_template, Response, request, redirect, url_for
 import cv2
 import mediapipe as mp
 import numpy as np
+import os
+from werkzeug.utils import secure_filename
+from db import pose_results_collection
 
 app = Flask(__name__)
 
